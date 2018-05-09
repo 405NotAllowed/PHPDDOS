@@ -31,7 +31,7 @@ h4 {font-weight: bold;}
 		<div id="pre_request"><br />
         <button type="submit" class="btn btn-danger" name="ok" onclick="ajaxRequest(0);">启动DDOS</button>
 		<button type="button" class="btn btn-success" onclick="top.location='index.php'">停止DDOS</button>
-		<button type="button" class="btn btn-primary" target="_blank" onclick="top.location='https://405notallowed.com'">联系思念</button>
+		<button type="button" class="btn btn-primary" target="_blank" onclick="top.location='https://405notallowed.com'">联系405Method</button>
 
 		</div>
 		</form>
